@@ -30,7 +30,10 @@ const options = {
       title: "Job portal Application",
       description: "Node Expressjs Job Portal Application",
     },
-    servers: [{ url: "http://localhost:8000" }],
+    servers: [
+      //{ url: "http://localhost:8000" }
+      {url : "https://job-portal-project-7030.onrender.com/"}
+      ],
   },
   apis: ["./routes/*.js"],
 };
