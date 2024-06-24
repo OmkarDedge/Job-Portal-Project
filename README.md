@@ -7,19 +7,29 @@ The Job Portal project is a web application designed to connect job seekers with
 # Features
 
 User Registration and Login
+
 Admin Registration and Login
+
 JWT Token for Authentication and Authorization
+
 User Profile Management
+
 Admin Job Posting Management
+
 Cross-Platform Security
+
 SQL Injection Protection
+
 API Documentation with Swagger UI
 
 # Technology Stack
 
 Backend: NodeJS, Express
+
 Database: MongoDB
+
 Authentication: JWT (JSON Web Token)
+
 API Documentation: Swagger UI
 
 # Screenshots
